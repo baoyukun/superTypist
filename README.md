@@ -4,7 +4,7 @@ Pygame-based typing game, a simplified "金山打字通" of python version.
 
 ## How to use it
 
-```python
+```
 cd superTypist
 pip install -r requirements.txt
 
